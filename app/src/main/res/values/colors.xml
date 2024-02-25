@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal_200">#8AA2A9</color>
+    <color name="Red">#F10505</color>
+    <color name="Dark_Puple">#2B193D</color>
+    <color name="YellowLight">#FDF0D5</color>
+    <color name ="doctor">#13BCB6</color>
+    <color name ="emoji">#98C7ED</color>
+    <color name="blue">#FF98C7ED</color>
+</resources>
